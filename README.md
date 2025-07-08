@@ -5,11 +5,9 @@
 
 <p align="center">
   <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🧠%20visitors-00110100%2000110111%2000100001%2000101011-%2300ff00?style=flat-square&logo=hackaday&logoColor=00ff00" />
+    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
   </a>
 </p>
-
-
 
 ---
 
