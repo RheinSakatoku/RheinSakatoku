@@ -5,17 +5,9 @@
 
 <p align="center">
   <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=cyber%20scans" />
-  </a>
-  <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/%20status-CYBERACTIVE-%23ff0066?style=flat-square&logo=codersrank&logoColor=white" />
-  </a>
-  <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/%20brainmode-unstable%20-%23ff0033?style=flat-square&logo=probot&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
   </a>
 </p>
-
-
 
 ---
 
