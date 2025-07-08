@@ -2,12 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=Rhein+Sakatoku;Developer;Click+button+below+:3" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
 </p>
+
 
 ---
 
