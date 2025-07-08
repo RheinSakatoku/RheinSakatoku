@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=Rhein+Sakatoku;true+hacker;cyberpsycho+mode+%F0%9F%92%80" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/H9y7mawzHnt4g3aFzT/giphy.gif" width="300" />
-</p>
-
 ---
 
 <p align="center">
