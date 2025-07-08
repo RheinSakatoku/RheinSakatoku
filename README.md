@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=Rhein+Sakatoku;true+hacker;cyberpsycho+mode+%F0%9F%92%80" alt="Typing SVG" />
+</h1>
 
-<!--
-**RheinSakatoku/RheinSakatoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/H9y7mawzHnt4g3aFzT/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rhein-Sakatoku.Rhein-Sakatoku&left_color=gray&right_color=red" />
+  <img src="https://img.shields.io/badge/Status-CYBERACTIVE-red?style=flat-square&logo=protonmail" />
+  <img src="https://img.shields.io/badge/brainmode-🔥%20unstable-red?style=flat-square" />
+</p>
+
+---
+
+### 🧠 Profile Boot Sequence:
+
+```bash
+> Initializing system...
+> Loading 🔥 visuals.js
+> Injecting JS_Overclock.dll
+> Establishing neural uplink...
+> ACCESS GRANTED ✅
