@@ -22,8 +22,9 @@
 ### Profile Boot Sequence:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FF0066&center=true&vCenter=true&width=440&lines=Initializing+cyberdeck...;Injecting+JS_Overclock.dll;ACCESS+GRANTED;Rhein+Sakatoku+online" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=FF0055&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+Initializing+cyberdeck...;%3E+Injecting+JS_Overclock.dll;%3E+Tracing+ghost-signal...;%3E+ACCESS+GRANTED" />
 </p>
+
 
 
 
