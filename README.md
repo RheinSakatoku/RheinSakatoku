@@ -19,8 +19,9 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frheinsakatoku.github.io&count_bg=%2300ff00&title_bg=%23000000&icon=&title=Visitors&edge_flat=false" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RheinSakatoku.rheinsakatoku.github.io&style=flat-square&color=00ff00" alt="visitor badge"/>
 </p>
+
 
 
 
