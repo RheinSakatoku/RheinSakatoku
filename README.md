@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
+    <img src="https://raw.githubusercontent.com/RheinSakatoku/assets/main/matrix-counter.png" alt="Matrix Visitor Counter" width="300"/>
   </a>
 </p>
+
 
 ---
 
