@@ -13,9 +13,6 @@
   <a href="https://rheinsakatoku.github.io" target="_blank">
     <img src="https://img.shields.io/badge/%20brainmode-unstable%20-%23ff0033?style=flat-square&logo=probot&logoColor=white" />
   </a>
-  <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/%20cloaked-TRUE-%2300ffe7?style=flat-square&logo=gnome-terminal&logoColor=white" />
-  </a>
 </p>
 
 
