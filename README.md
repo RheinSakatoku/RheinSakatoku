@@ -5,10 +5,12 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rhein-Sakatoku.Rhein-Sakatoku&left_color=gray&right_color=red" />
-  <img src="https://img.shields.io/badge/Status-CYBERACTIVE-red?style=flat-square&logo=protonmail" />
-  <img src="https://img.shields.io/badge/brainmode-🔥%20unstable-red?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=cyber%20scans" />
+  <img src="https://img.shields.io/badge/🧠%20status-CYBERACTIVE-%23ff0066?style=flat-square&logo=codersrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧬%20brainmode-unstable%20🔥-%23ff0033?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/🕶️%20cloaked-TRUE-%2300ffe7?style=flat-square&logo=gnome-terminal&logoColor=white" />
 </p>
+
 
 ---
 
