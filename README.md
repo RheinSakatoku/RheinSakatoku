@@ -21,42 +21,9 @@
 
 ### Profile Boot Sequence:
 
-<pre id="cybercode" style="color:#ff0055; background:black; padding:1rem; font-family:'Fira Code', monospace; overflow:auto; height:300px; line-height:1.5; font-size:14px; border:1px solid #ff0066;">
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FF0066&center=true&vCenter=true&width=440&lines=Initializing+cyberdeck...;Injecting+JS_Overclock.dll;ACCESS+GRANTED;Rhein+Sakatoku+online" />
+</p>
 
-<script>
-const cyberLines = [
-  "> Injecting neural firmware...",
-  "> Splicing cortex...",
-  "> Tracing deepnet sockets...",
-  "[ OK ] Synaptic sync achieved",
-  "> Mounting shadowfile.sys",
-  "> Overclocking frontal lobe...",
-  "!!! ALERT: Cognitive overload threshold exceeded",
-  "> Running: ./black_mirrors/summon --daemon",
-  ">>> ACCESS POINT: Tokyo Grid [ghosted]",
-  ">>> LOG: \"Consciousness is a side-effect.\"",
-  "> netlink --brute -key omega_brain.crk",
-  "⚠ anomaly detected in subconscious.dat",
-  "> Rebuilding dream cache...",
-  "...patching false memories...",
-  "> ERROR: sanity_check.exe not found",
-  "> Executing ./cyber_babel/load.bat",
-  "> Echoing nullthoughts >> /dev/psyche"
-];
-
-function startCyberScroll() {
-  const el = document.getElementById("cybercode");
-  let i = 0;
-  setInterval(() => {
-    if (i >= cyberLines.length) i = 0;
-    el.textContent += cyberLines[i] + "\n";
-    el.scrollTop = el.scrollHeight;
-    i++;
-  }, 200);
-}
-
-startCyberScroll();
-</script>
 
 
