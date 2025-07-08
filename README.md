@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/RheinSakatoku/assets/main/matrix-counter.png" alt="Matrix Visitor Counter" width="300"/>
+    <img src="https://img.shields.io/badge/🧠%20visitors-00110100%2000110111%2000100001%2000101011-%2300ff00?style=flat-square&logo=hackaday&logoColor=00ff00" />
   </a>
 </p>
+
 
 
 ---
