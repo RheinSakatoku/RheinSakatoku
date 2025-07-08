@@ -19,98 +19,12 @@
 
 ---
 
-### 🧠 Profile Boot Sequence:
+### Profile Boot Sequence:
 
 ```bash
-DISK="/dev/sda"     
-HOSTNAME="Arch"
-USERNAME="Rhein"
-PASSWORD="********"
-
-
-sgdisk --zap-all "$DISK"
-
-parted "$DISK" --script mklabel gpt \
-  mkpart primary fat32 1MiB 513MiB \
-  set 1 esp on \
-  mkpart primary linux-swap 513MiB 2561MiB \
-  mkpart primary ext4 2561MiB 22561MiB \
-  mkpart primary ext4 22561MiB 100%
-
-BOOT="${DISK}1"
-SWAP="${DISK}2"
-ROOT="${DISK}3"
-HOME="${DISK}4"
-
-mkfs.fat -F32 "$BOOT"
-mkswap "$SWAP"
-mkfs.ext4 "$ROOT"
-mkfs.ext4 "$HOME"
-
-mount "$ROOT" /mnt
-mkdir /mnt/boot
-mkdir /mnt/home
-mount "$BOOT" /mnt/boot
-mount "$HOME" /mnt/home
-swapon "$SWAP"
-
-
-pacstrap /mnt base linux linux-firmware vim networkmanager gnome gnome-tweaks gdm xorg
-
-genfstab -U /mnt >> /mnt/etc/fstab
-
-
-arch-chroot /mnt /bin/bash <<EOF
-
-echo "$HOSTNAME" > /etc/hostname
-
-ln -sf /usr/share/zoneinfo/Europe/Moscow /etc/localtime
-hwclock --systohc
-
-
-echo "ru_RU.UTF-8 UTF-8" > /etc/locale.gen
-echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
-locale-gen
-
-echo "LANG=ru_RU.UTF-8" > /etc/locale.conf
-echo "KEYMAP=ru" > /etc/vconsole.conf
-
-
-timedatectl set-ntp true
-systemctl enable systemd-timesyncd
-
-
-echo "root:$PASSWORD" | chpasswd
-
-useradd -m -G wheel -s /bin/bash $USERNAME
-echo "$USERNAME:$PASSWORD" | chpasswd
-echo "%wheel ALL=(ALL:ALL) ALL" >> /etc/sudoers
-
-
-systemctl enable NetworkManager
-
-
-systemctl enable gdm
-
-
-bootctl install
-
-PARTUUID=\$(blkid -s PARTUUID -o value $ROOT)
-
-cat <<ELOADER > /boot/loader/loader.conf
-default arch
-timeout 3
-editor no
-ELOADER
-
-cat <<EENTRY > /boot/loader/entries/arch.conf
-title   Arch Linux
-linux   /vmlinuz-linux
-initrd  /initramfs-linux.img
-options root=PARTUUID=$PARTUUID rw
-EENTRY
-
-EOF
-
-echo "Try to execute :3"
+> Initializing system...
+> Loading visuals.js
+> Injecting JS_Overclock.dll
+> Establishing neural uplink...
+> ACCESS GRANTED
 
