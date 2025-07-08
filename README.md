@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://rheinsakatoku.github.io" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frheinsakatoku.github.io&count_bg=%2300FF00&title_bg=%23000000&icon=github.svg&icon_color=%2300FF00&title=visitors&edge_flat=false" />
+    <img src="https://komarev.com/ghpvc/?username=RheinSakatoku&style=flat-square&color=ff0066&label=visitors" />
   </a>
 </p>
 
